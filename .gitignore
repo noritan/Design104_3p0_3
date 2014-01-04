@@ -1,3 +1,9 @@
 # Log files
 *.log
 *.rpt
+
+# Temp directry
+*/*.cydsn/codegentemp/*
+
+# Results
+*/*.cydsn/DP8051/*
