@@ -1,2 +1,12 @@
-Design104_3p0_3/Design104_3p0_3.cydsn/DP8051
-Design104_3p0_3/Design104_3p0_3.cydsn/codegentemp
+# Object files
+*.obj
+
+# List files
+*.lst
+
+# Log files
+*.log
+
+# Intermediate files
+*/DP8051/*
+*/codegentemp/*
