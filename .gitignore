@@ -1,0 +1,12 @@
+# Object files
+*.obj
+
+# List files
+*.lst
+
+# Log files
+*.log
+
+# Intermediate files
+*/DP8051/*
+*/codegentemp/*
