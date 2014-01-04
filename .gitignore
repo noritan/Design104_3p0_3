@@ -1,3 +1,7 @@
+#
+# .gitignore file for PSoC Creator 3.0
+#
+
 # Log files
 *.log
 *.rpt
